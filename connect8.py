@@ -31,7 +31,7 @@ class Player(IntEnum):
     Yellow = 2
 
 
-class Connect5(object):
+class Connect8(object):
     def __init__(self):
         self.last_player = None
         self.grid = [
